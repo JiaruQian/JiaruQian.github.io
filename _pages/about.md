@@ -46,7 +46,7 @@ I aspire to work on research that introduces genuinely new paradigms and challen
   <div class="publication-content">
     <span class="publication-venue">Software Journal 2025</span>
     <h3><a href="https://arxiv.org/abs/2508.00083">A Survey on Code Generation with LLM-based Agents</a></h3>
-    <p class="publication-authors">Yihong Dong, Xue Jiang, <strong>Jiaru Qian</strong>, Tian Wang, Kechi Zhang, Zhi Jin, Ge Li</p>
+    <p class="publication-authors">Yihong Dong*, Xue Jiang*, <strong>Jiaru Qian*</strong>, Tian Wang, Kechi Zhang, Zhi Jin, Ge Li</p>
     <p class="publication-summary">Provides a systematic taxonomy of LLM-based code-generation agents and outlines key challenges and future directions.</p>
   </div>
   <a class="publication-figure" href="https://arxiv.org/abs/2508.00083"><img src="/images/LLMCodeAgentSurvey.png" alt="Taxonomy of LLM-based code generation agents"></a>
@@ -56,7 +56,7 @@ I aspire to work on research that introduces genuinely new paradigms and challen
   <div class="publication-content">
     <span class="publication-venue">NeurIPS 2025</span>
     <h3><a href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html">OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</a></h3>
-    <p class="publication-authors">Frank Wan, <strong>Jiaru Qian</strong>, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</p>
+    <p class="publication-authors">Frank Wan*, <strong>Jiaru Qian*</strong>, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</p>
     <p class="publication-summary">Integrates semantic and structural knowledge with a topology codebook and Wasserstein-guided distillation.</p>
   </div>
   <a class="publication-figure" href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html"><img src="/images/NeurIPS25-OASIS.png" alt="Overview of the OASIS method"></a>
@@ -66,7 +66,7 @@ I aspire to work on research that introduces genuinely new paradigms and challen
   <div class="publication-content">
     <span class="publication-venue">ICML 2025</span>
     <h3><a href="https://proceedings.mlr.press/v267/qian25a.html">GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</a></h3>
-    <p class="publication-authors"><strong>Jiaru Qian</strong>, Guancheng Wan, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</p>
+    <p class="publication-authors"><strong>Jiaru Qian*</strong>, Guancheng Wan*, Wenke Huang*, Guibin Zhang*, Yuxin Wu, Bo Du, Mang Ye</p>
     <p class="publication-summary">Retains transferable topology knowledge through learnable proxies for generalizable one-shot federated graph learning.</p>
   </div>
   <a class="publication-figure" href="https://proceedings.mlr.press/v267/qian25a.html"><img src="/images/ICML25-GHOST.png" alt="Overview of the GHOST method"></a>
@@ -91,6 +91,8 @@ I aspire to work on research that introduces genuinely new paradigms and challen
   </div>
   <a class="publication-figure" href="https://arxiv.org/abs/2605.15334"><img src="/images/IO2Code.png" alt="Overview of IO2Code and its discovery agent"></a>
 </div>
+
+<p class="publication-note">* Equal Contribution</p>
 
 # 🎖 Honors and Awards
 - *2026.06* Outstanding Graduate of Wuhan University
