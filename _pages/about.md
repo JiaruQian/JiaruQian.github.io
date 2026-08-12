@@ -17,42 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in Peking University, supervised by Prof. Ge Li. I completed my undergraduate studies in School of Computer Science in Wuhan University, where I ranked 1st out of 57. I have also been fortunate to begin my research journey under the supervision of Prof. Mang Ye in 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes code generation, formal verification and LLM reasoning.
+I aspire to work on research that introduces genuinely new paradigms and challenges prevailing assumptions in both academia and industry.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07*: &nbsp;🎉🎉 Paper **Saber** has been awarded ACL 2026 SAC Highlight Award.
+- *2026.03*: &nbsp;🎉🎉 Paper **KOCO-Bench** has been accepted by ACL Main Conference 2026.
+- *2025.09*: &nbsp;🎉🎉 Our survey paper has been accepted by Software Journal 2025.
+- *2025.09*: &nbsp;🎉🎉 Paper **OASIS** has been accepted by NeurIPS 2025.
+- *2025.05*: &nbsp;🎉🎉 Paper **GHOST** has been accepted by ICML 2025.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue">ICML 2025</span>
+    <h3><a href="https://proceedings.mlr.press/v267/qian25a.html">GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</a></h3>
+    <p class="publication-authors"><strong>Jiaru Qian</strong>, Guancheng Wan, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</p>
+    <p class="publication-summary">Retains transferable topology knowledge through learnable proxies for generalizable one-shot federated graph learning.</p>
+  </div>
+  <a class="publication-figure" href="https://proceedings.mlr.press/v267/qian25a.html"><img src="/images/ICML25-GHOST.png" alt="Overview of the GHOST method"></a>
 </div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue">NeurIPS 2025</span>
+    <h3><a href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html">OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</a></h3>
+    <p class="publication-authors">Frank Wan, <strong>Jiaru Qian</strong>, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</p>
+    <p class="publication-summary">Integrates semantic and structural knowledge with a topology codebook and Wasserstein-guided distillation.</p>
+  </div>
+  <a class="publication-figure" href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html"><img src="/images/NeurIPS25-OASIS.png" alt="Overview of the OASIS method"></a>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue">Software Journal 2025</span>
+    <h3><a href="https://arxiv.org/abs/2508.00083">A Survey on Code Generation with LLM-based Agents</a></h3>
+    <p class="publication-authors">Yihong Dong, Xue Jiang, <strong>Jiaru Qian</strong>, Tian Wang, Kechi Zhang, Zhi Jin, Ge Li</p>
+    <p class="publication-summary">Provides a systematic taxonomy of LLM-based code-generation agents and outlines key challenges and future directions.</p>
+  </div>
+  <a class="publication-figure" href="https://arxiv.org/abs/2508.00083"><img src="/images/LLMCodeAgentSurvey.png" alt="Taxonomy of LLM-based code generation agents"></a>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue">ACL 2026</span>
+    <h3><a href="https://doi.org/10.18653/v1/2026.acl-long.1311">KOCO-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?</a></h3>
+    <p class="publication-authors">Xue Jiang, Ge Li, <strong>Jiaru Qian</strong>, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zeyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong</p>
+    <p class="publication-summary">Benchmarks how well language models acquire and apply new domain knowledge in realistic software development.</p>
+  </div>
+  <a class="publication-figure" href="https://doi.org/10.18653/v1/2026.acl-long.1311"><img src="/images/ACL26-KOCOBENCH.png" alt="Overview of KOCO-Bench"></a>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue publication-venue--review">Under Review</span>
+    <h3>Parallel Thinking for Language Model with Path Diversity</h3>
+    <p class="publication-authors"><strong>Jiaru Qian</strong> <span class="author-note">· Co-First Author</span></p>
+    <p class="publication-summary">Encourages diverse reasoning paths during reinforcement learning to prevent mode collapse in parallel thinking.</p>
+  </div>
+  <div class="publication-figure"><img src="/images/DPT.png" alt="Overview of diverse parallel thinking"></div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue publication-venue--review">Under Review</span>
+    <h3><a href="https://arxiv.org/abs/2605.15334">From I/O to Code with Discovery Agent</a></h3>
+    <p class="publication-authors">Yihong Dong, <strong>Jiaru Qian</strong>, Haoran Zhang, Peixu Wang, Binhua Li, Zhi Jin, Yongbin Li, Ge Li, Xiaokang Yang, Xue Jiang</p>
+    <p class="publication-summary">Introduces IO2Code and a discovery agent that synthesizes programs from input-output examples through curriculum evolution.</p>
+  </div>
+  <a class="publication-figure" href="https://arxiv.org/abs/2605.15334"><img src="/images/IO2Code.png" alt="Overview of IO2Code and its discovery agent"></a>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06* Outstanding Graduate of Wuhan University
+- *2026.05* Lei Jun Computer Science Breakthrough Scholarship, Wuhan University (CNY 50,000)
+- *2022–2026* National Scholarship, awarded for three consecutive years (CNY 10,000 each)
+- *2024.12* National Second Prize, China Undergraduate Mathematical Contest in Modeling
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Education
+- *2026–2031*, Ph.D. in Computer Science, School of Computer Science, Peking University
+- *2022–2026*, B.Eng. in Computer Science, School of Computer Science, Wuhan University
