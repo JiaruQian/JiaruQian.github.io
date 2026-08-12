@@ -34,22 +34,12 @@ I aspire to work on research that introduces genuinely new paradigms and challen
 
 <div class="publication-card">
   <div class="publication-content">
-    <span class="publication-venue">ICML 2025</span>
-    <h3><a href="https://proceedings.mlr.press/v267/qian25a.html">GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</a></h3>
-    <p class="publication-authors"><strong>Jiaru Qian</strong>, Guancheng Wan, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</p>
-    <p class="publication-summary">Retains transferable topology knowledge through learnable proxies for generalizable one-shot federated graph learning.</p>
+    <span class="publication-venue">ACL 2026</span>
+    <h3><a href="https://doi.org/10.18653/v1/2026.acl-long.1311">KOCO-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?</a></h3>
+    <p class="publication-authors">Xue Jiang, Ge Li, <strong>Jiaru Qian</strong>, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zeyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong</p>
+    <p class="publication-summary">Benchmarks how well language models acquire and apply new domain knowledge in realistic software development.</p>
   </div>
-  <a class="publication-figure" href="https://proceedings.mlr.press/v267/qian25a.html"><img src="/images/ICML25-GHOST.png" alt="Overview of the GHOST method"></a>
-</div>
-
-<div class="publication-card">
-  <div class="publication-content">
-    <span class="publication-venue">NeurIPS 2025</span>
-    <h3><a href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html">OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</a></h3>
-    <p class="publication-authors">Frank Wan, <strong>Jiaru Qian</strong>, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</p>
-    <p class="publication-summary">Integrates semantic and structural knowledge with a topology codebook and Wasserstein-guided distillation.</p>
-  </div>
-  <a class="publication-figure" href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html"><img src="/images/NeurIPS25-OASIS.png" alt="Overview of the OASIS method"></a>
+  <a class="publication-figure" href="https://doi.org/10.18653/v1/2026.acl-long.1311"><img src="/images/ACL26-KOCOBENCH.png" alt="Overview of KOCO-Bench"></a>
 </div>
 
 <div class="publication-card">
@@ -64,12 +54,22 @@ I aspire to work on research that introduces genuinely new paradigms and challen
 
 <div class="publication-card">
   <div class="publication-content">
-    <span class="publication-venue">ACL 2026</span>
-    <h3><a href="https://doi.org/10.18653/v1/2026.acl-long.1311">KOCO-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?</a></h3>
-    <p class="publication-authors">Xue Jiang, Ge Li, <strong>Jiaru Qian</strong>, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zeyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong</p>
-    <p class="publication-summary">Benchmarks how well language models acquire and apply new domain knowledge in realistic software development.</p>
+    <span class="publication-venue">NeurIPS 2025</span>
+    <h3><a href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html">OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</a></h3>
+    <p class="publication-authors">Frank Wan, <strong>Jiaru Qian</strong>, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</p>
+    <p class="publication-summary">Integrates semantic and structural knowledge with a topology codebook and Wasserstein-guided distillation.</p>
   </div>
-  <a class="publication-figure" href="https://doi.org/10.18653/v1/2026.acl-long.1311"><img src="/images/ACL26-KOCOBENCH.png" alt="Overview of KOCO-Bench"></a>
+  <a class="publication-figure" href="https://papers.nips.cc/paper_files/paper/2025/hash/7300dd4d625cb42a438c1b822c77569f-Abstract-Conference.html"><img src="/images/NeurIPS25-OASIS.png" alt="Overview of the OASIS method"></a>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue">ICML 2025</span>
+    <h3><a href="https://proceedings.mlr.press/v267/qian25a.html">GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</a></h3>
+    <p class="publication-authors"><strong>Jiaru Qian</strong>, Guancheng Wan, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</p>
+    <p class="publication-summary">Retains transferable topology knowledge through learnable proxies for generalizable one-shot federated graph learning.</p>
+  </div>
+  <a class="publication-figure" href="https://proceedings.mlr.press/v267/qian25a.html"><img src="/images/ICML25-GHOST.png" alt="Overview of the GHOST method"></a>
 </div>
 
 <div class="publication-card">
