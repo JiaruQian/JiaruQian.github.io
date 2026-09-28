@@ -34,6 +34,16 @@ I aspire to work on research that introduces genuinely new paradigms and challen
 
 <div class="publication-card">
   <div class="publication-content">
+    <span class="publication-venue">NeurIPS 2026</span>
+    <h3><a href="https://arxiv.org/abs/2605.15334">From I/O to Code with Discovery Agent</a></h3>
+    <p class="publication-authors">Yihong Dong, <strong>Jiaru Qian</strong>, Haoran Zhang, Peixu Wang, Binhua Li, Zhi Jin, Yongbin Li, Ge Li, Xiaokang Yang, Xue Jiang</p>
+    <p class="publication-summary">Introduces IO2Code and a discovery agent that synthesizes programs from input-output examples through curriculum evolution.</p>
+  </div>
+  <a class="publication-figure" href="https://arxiv.org/abs/2605.15334"><img src="/images/IO2Code.png" alt="Overview of IO2Code and its discovery agent"></a>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
     <span class="publication-venue">ACL 2026</span>
     <h3><a href="https://doi.org/10.18653/v1/2026.acl-long.1311">KOCO-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?</a></h3>
     <p class="publication-authors">Xue Jiang, Ge Li, <strong>Jiaru Qian</strong>, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zeyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong</p>
@@ -75,6 +85,16 @@ I aspire to work on research that introduces genuinely new paradigms and challen
 <div class="publication-card">
   <div class="publication-content">
     <span class="publication-venue publication-venue--review">Under Review</span>
+    <h3>Self-Spec Verifiable Code Generation</h3>
+    <p class="publication-authors"><strong>Jiaru Qian</strong> <span class="author-note">· First Author</span></p>
+    <p class="publication-summary">Benchmarks the capability of LLMs on formally verifiable code generation.</p>
+  </div>
+  <div class="publication-figure"><img src="/images/VeriCodeBench.png" alt="Overview of VeriCodeBench & CodeNova"></div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-content">
+    <span class="publication-venue publication-venue--review">Under Review</span>
     <h3>Parallel Thinking for Language Model with Path Diversity</h3>
     <p class="publication-authors"><strong>Jiaru Qian</strong> <span class="author-note">· Co-First Author</span></p>
     <p class="publication-summary">Encourages diverse reasoning paths during reinforcement learning to prevent mode collapse in parallel thinking.</p>
@@ -82,15 +102,8 @@ I aspire to work on research that introduces genuinely new paradigms and challen
   <div class="publication-figure"><img src="/images/DPT.png" alt="Overview of diverse parallel thinking"></div>
 </div>
 
-<div class="publication-card">
-  <div class="publication-content">
-    <span class="publication-venue publication-venue--review">Under Review</span>
-    <h3><a href="https://arxiv.org/abs/2605.15334">From I/O to Code with Discovery Agent</a></h3>
-    <p class="publication-authors">Yihong Dong, <strong>Jiaru Qian</strong>, Haoran Zhang, Peixu Wang, Binhua Li, Zhi Jin, Yongbin Li, Ge Li, Xiaokang Yang, Xue Jiang</p>
-    <p class="publication-summary">Introduces IO2Code and a discovery agent that synthesizes programs from input-output examples through curriculum evolution.</p>
-  </div>
-  <a class="publication-figure" href="https://arxiv.org/abs/2605.15334"><img src="/images/IO2Code.png" alt="Overview of IO2Code and its discovery agent"></a>
-</div>
+
+
 
 <p class="publication-note">* Equal Contribution</p>
 
